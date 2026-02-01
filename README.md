@@ -116,7 +116,9 @@ Simulation tool for chemical reactions
 ## 📫 Connect With Me
 
 📧 Email:
-- mahesreddymula23f3003827@ds.study.iitm.ac.in  
+- mahesreddymula@gmail.com
+- 23f3003827@ds.study.iitm.ac.in
+- mvmreddy051.btech2023@mme.nitrr.ac.in
 - n210170@rguktn.ac.in  
 
 💼 LinkedIn:
